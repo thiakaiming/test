@@ -3,7 +3,8 @@
     <head>
         <title>Lab - Watermarking or framing</title>
         <style>
-            dd {
+            dd 
+            {
                 margin-bottom: 20px;
             }
         </style>
